@@ -24,7 +24,7 @@
 ## 2024年10月10日 HYDT 攻击事件分析与复现
 
 本文将通过对 **2024年10月10日 HYDT 攻击事件** 的详细分析，使用 Foundry 工具进行复现。
-请参阅详细分析文档：https://learnblockchain.cn/article/13124。
+请参阅详细分析文档：https://learnblockchain.cn/article/13124
 
 ### 复现命令
 
