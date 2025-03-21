@@ -21,14 +21,13 @@
     forge --version
     ```
 
+# 使用Foundry对具体的安全事件进行分析
+
 ## 2024年10月10日 HYDT 攻击事件分析与复现
 
-本文将通过对 **2024年10月10日 HYDT 攻击事件** 的详细分析，使用 Foundry 工具进行复现。
 请参阅详细分析文档：https://learnblockchain.cn/article/13124
 
-### 复现命令
 
-在安装 Foundry 后，可以使用以下命令来复现该攻击事件：
+## 2022年9月23日 RADT-DAO(TWN) 攻击事件分析与复现
 
-```bash
-forge test --contracts ./src/2024-10-10-HYDT/HYDT_exp.t.sol -vvv --evm-version cancun
+请参阅详细分析文档：https://learnblockchain.cn/article/13124

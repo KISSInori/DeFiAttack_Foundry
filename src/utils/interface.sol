@@ -1081,7 +1081,7 @@ interface Uni_Router_V3 {
 }
 
 interface Uni_Router_V2 {
-    function WETH() external view returns (address);
+    //function WETH() external view returns (address);
 
     function addLiquidity(
         address tokenA,
@@ -1893,7 +1893,7 @@ interface IMasterChef {
 
     function BONUS_MULTIPLIER() external view returns (uint256);
 
-    function WETH() external view returns (address);
+    //function WETH() external view returns (address);
 
     function _become(
         address proxy
@@ -2195,7 +2195,7 @@ interface IPancakePair {
 }
 
 interface IPancakeRouter {
-    function WETH() external view returns (address);
+    //function WETH() external view returns (address);
 
     function addLiquidity(
         address tokenA,
@@ -2964,7 +2964,7 @@ interface MonoXPool {
     event TransferSingle(address indexed operator, address indexed from, address indexed to, uint256 id, uint256 value);
     event URI(string value, uint256 indexed id);
 
-    function WETH() external view returns (address);
+    //function WETH() external view returns (address);
 
     function admin() external view returns (address);
 
@@ -4421,7 +4421,7 @@ interface IHarvestUsdcVault {
 }
 
 interface IUniswapV2Router {
-    function WETH() external view returns (address);
+    //function WETH() external view returns (address);
 
     function addLiquidity(
         address tokenA,
