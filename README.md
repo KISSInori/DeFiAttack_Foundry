@@ -34,3 +34,9 @@
 快速构建：https://github.com/KISSInori/DeFiAttack_Foundry/tree/main/src/2022-09-23-RADT-DAO
 
 请参阅详细分析文档：https://learnblockchain.cn/article/13161
+
+
+### 2023年4月5日 Sentiment 攻击事件分析与复现
+快速构建：https://github.com/KISSInori/DeFiAttack_Foundry/tree/main/src/2023-04-05-Sentiment
+
+请参阅详细分析文档：https://learnblockchain.cn/article/17471
